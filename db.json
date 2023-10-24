@@ -1,0 +1,54 @@
+{
+  "contatos": [],
+  "myceps": [
+    {
+      "id": 1,
+      "cep": "07170350",
+      "logradouro": "Rua lá de Casa",
+      "localidade": "Guarulhos",
+      "uf": "sp"
+    },
+    {
+      "id": 2,
+      "cep": "07181230",
+      "logradouro": "Rua do Trabalho",
+      "localidade": "São Caetano do Sul",
+      "uf": "sp"
+    },
+    {
+      "id": 3,
+      "cep": "01234567",
+      "logradouro": "Rua dos Empresários",
+      "localidade": "São Paulo",
+      "uf": "sp"
+    },
+    {
+      "id": 4,
+      "cep": "87654321",
+      "logradouro": "Rua dos Empregados",
+      "localidade": "Mogi das Cruzes",
+      "uf": "sp"
+    }
+  ],
+
+  "TipoEventos": [
+    {
+      "id": 1,
+      "titulo": "SQL Server",
+      "instituicao": "SENAI",
+      "dataEvento": "05/11/2023"
+    },
+    {
+      "titulo": "JavaScript",
+      "instituicao": "SENAI",
+      "dataEvento": "06/11/2023",
+      "id": 2
+    },
+    {
+      "titulo": "JavaScript",
+      "instituicao": "SENAI",
+      "dataEvento": "06/11/2023",
+      "id": 3
+    }
+  ]
+}
